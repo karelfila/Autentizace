@@ -1,18 +1,43 @@
 import jakarta.enterprise.context.RequestScoped;
 import jakarta.inject.Named;
 
+import java.util.Date;
+
 @Named
 @RequestScoped
-public class Registrace {
+public class User {
 
-    private int userID;
+
     private String fullName;
     private String email;
     private String password;
+    private int userID;
     private String createdAt;
     private String updatedAt;
+    private boolean isLogged;
 
 
+
+    public User() {
+    }
+
+    public User(String fullName, String email, String password, int userID, String createdAt, String updatedAt) {
+        this.fullName = fullName;
+        this.email = email;
+        this.password = password;
+        this.userID = userID;
+        this.createdAt = createdAt;
+        this.updatedAt = updatedAt;
+    }
+
+
+    public boolean isLogged() {
+        return isLogged;
+    }
+
+    public void setLogged(boolean logged) {
+        isLogged = logged;
+    }
 
     public int getUserID() {
         return userID;
