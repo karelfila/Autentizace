@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f58786ee-086c-4ba5-9086-c692e0105934" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/hidden.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/home.xhtml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.xhtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/92d19fcd-0b57-45f9-aff6-9ec152f6f217.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/92d19fcd-0b57-45f9-aff6-9ec152f6f217.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Registrace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.xhtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.xhtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,12 +68,24 @@
       <workItem from="1678291094361" duration="1807000" />
       <workItem from="1678358485442" duration="1336000" />
       <workItem from="1678373665330" duration="3534000" />
-      <workItem from="1678386451716" duration="2459000" />
+      <workItem from="1678386451716" duration="2772000" />
     </task>
+    <task id="LOCAL-00001" summary="intial commit">
+      <created>1678389213894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678389213894</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="intial commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
